@@ -128,7 +128,7 @@ body{
 .header{
     z-index: -1;
     position: absolute;
-    background-image: url('../assets/fixed-background.jpg');
+    background-image: url('assets/fixed-background.jpg');
     background-size: 100% 120%;
     background-position:bottom;
     height: 300px;
@@ -190,7 +190,7 @@ body{
 .modal{
     height: 250px;
     padding-right: 5%;
-    background-image: url('../assets/china-red.jpg');
+    background-image: url('assets/china-red.jpg');
     background-attachment: fixed;
 
     .box{
@@ -219,19 +219,19 @@ body{
     }
 
     .p1{
-        background-image: url("../assets/box1.jpg");
+        background-image: url("assets/box1.jpg");
     }
 
     .p2{
-        background-image: url("../assets/box2.jpg");
+        background-image: url("assets/box2.jpg");
     }
 
     .p3{
-        background-image: url("../assets/box3.jpg");
+        background-image: url("assets/box3.jpg");
     }
 
     .p4{
-        background-image: url("../assets/box4.jpg");
+        background-image: url("assets/box4.jpg");
     }
 }
 
